@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kai Sunahara",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://knsuna.github.io/images/molly.png",
+    "email": "knsunaha@hawaii.edu",
+    "phone": "808-546-0687",
+    "website": "https://knsuna.github.io",
+    "summary": "I am studying for a B.S. in Management Information System and a B.S. in International Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "Kaneohe, Hawaii",
+      "postalCode": "96744",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,74 +17,69 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "knsuna",
+        "url": "http://github.com/knsuna"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Computer Software",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Video Games",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Servers",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Software Management Experience,
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+      "Jamf",
+      "MacOS Server",
+      "Windows Image Tool"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "OS",
       "level": "",
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Fedora,
+        "Windows 7/8/10",
+        "Linux"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Business (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
