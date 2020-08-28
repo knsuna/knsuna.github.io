@@ -1,100 +1,108 @@
 {
-  "basics": {
-    "name": "Kai Sunahara",
-    "label": "Student",
-    "picture": "https://knsuna.github.io/images/HeadShot.png",
-    "email": "knsunaha@hawaii.edu",
-    "phone": "808-546-0687",
-    "website": "https://knsuna.github.io",
-    "summary": "I am studying for a B.S. in Management Information Systems and International Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "knsuna",
-        "url": "http://github.com/knsuna"
+   "basics":{
+      "name":"Kai Sunahara",
+      "label":"Student",
+      "picture":"https://knsuna.github.io/images/HeadShot.png",
+      "email":"knsunaha@hawaii.edu",
+      "phone":"808-546-0687",
+      "website":"https://knsuna.github.io",
+      "summary":"I am studying for a B.S. in Management Information Systems and International Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
       },
-    ]
-  },
-  "interests": [
-    {
-      "name": "Building Computers",
-      "keywords": [
-        "Macs",
-        "Windows"
+      "profiles":[
+         {
+            "network":"github",
+            "username":"knsuna",
+            "url":"http://github.com/knsuna"
+         },
+         {
+            "network":"email",
+            "url":"knsunaha@hawaii.edu"
+         }
       ]
-    },
-    {
-      "name": "Stocks",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Video Games",
-      "keywords": [
-        "Valorant",
-        "Counter Strike",
-        "Minecraft"
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Flexible",
-      "level": "",
-      "keywords": [
-        "Easy to Work With"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Windows",
-        "Linux",
-        "Fedora",
-        "Ubuntu"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Business (expected Spring, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2019-08-26",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Information Technology Center",
-      "position": "Information Technology Student Assistant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2019-08-26",
-      "endDate": "Present",
-      "summary": "Provide assistance to different individuals regarding technology issues",
-      "highlights": [
-        "One of Four students designated as a Tech",
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    },
-      ]
-    }
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"Building Computers",
+         "keywords":[
+            "Macs",
+            "Windows"
+         ]
+      },
+      {
+         "name":"Stocks",
+         "keywords":[
+         ]
+      },
+      {
+         "name":"Video Games",
+         "keywords":[
+            "Valorant",
+            "Counter Strike",
+            "Minecraft"
+         ]
+      }
+   ],
+   "skills":[
+      {
+         "name":"Flexible",
+         "level":"",
+         "keywords":[
+         "Easy to Work With"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "MacOS",
+            "Windows",
+            "Linux",
+            "Fedora",
+            "Ubuntu"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Business (expected Spring, 2022)",
+         "studyType":"B.S.",
+         "startDate":"2019-08-26",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Information Technology Center",
+         "position":"Information Technology Student Assistant",
+         "website":"http://www.hawaii.edu/its/",
+         "startDate":"2019-08-26",
+         "endDate":"Present",
+         "summary":"Provide assistance to different individuals regarding technology issues",
+         "highlights":[
+            "One of Four students designated as a Tech",
+            "Troubleshoot software, hardware and networking issues over the phone",
+            "Answer phone and email responses to the ITS Help Desk"
+         ]
+      }
+   ],
+   "awards":[
+      
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
+}
