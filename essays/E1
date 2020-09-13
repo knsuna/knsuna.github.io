@@ -1,3 +1,12 @@
+---
+layout: essay
+type: essay
+title: E1
+# All dates must be YYYY-MM-DD format!
+date: 2020-09-12
+labels:
+  - Me
+---
 I did BrowserHistory1 in 2 tries. I was able to compete it the second time at around 17 minutes. The first time, I was having issues trying to figure out how to create the links to the corresponding sections. I took an html class back in high school and I was trying to recall something along the lines of a # with the name of what you are trying to refer to (with the href element), but I totally forgot to include the id element. Unfortunately, by the time I realized this, the timer had expired. However, on my second attempt for some reason I kept on forgetting to close the <p> tag so that took me a while to figure out, but I was able to finish it by the second attempt. 
 
 I did BrowserHistory2 in 3 tries. The first time I was getting confused because the index.html would not load the style.css file. I tried reloading and recycling the <link rel="stylesheet" href="style.css"> multiple times, but the screen would not change with the formatting. I was stuck at the first step, so I just decided to stop and try tinkering with it for a while. For some reason, if I viewed the file as a local file on my computer it worked, but if I were using http-server it would not load immediately and instead would take a while (I was able to fix this later, but not before I decided to just do BrowserHistory2 and BrowserHistory3). I eventually decided to just use the local file path to build this. For the second try, I had issues with the font. I was putting the font link in the style.css file instead of the index.html file. Unfortunately, again, by the time I realized this, time had already expired. Luckily, this was the only thing that I had left to do, so on my third attempt it only took me around 6 minutes to compete.
